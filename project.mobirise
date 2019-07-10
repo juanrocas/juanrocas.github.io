@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Juan Castrillon",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1116,7 +1116,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Illustrator - Photoshop - InDesign",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">See More</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Ver más</a>  ",
                 "overlayOpacity": "0.8",
                 "overlayColor": "#232323"
               },
